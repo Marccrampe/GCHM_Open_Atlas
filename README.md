@@ -44,14 +44,14 @@ Execute the following command in Bash to run the model:
 bash geoinference.py
 ```
 
-###📊 Test Data
+### 📊 Test Data
 Pre-existing test runs are available on Google Drive:
 
 Greece 2020
 Greece 2024
 You can visualize the results using QGIS.
 
-###⚠️ Limitations
+### ⚠️ Limitations
 
 - Cloudy Areas: The model's accuracy may be affected in regions with high cloud coverage.
 
@@ -72,11 +72,11 @@ Ensure your GeoJSON defines a perfect square.
 Small Tile Issues?
 Reduce the border parameter proportionally to the tile size.
 
-###🔹 Acknowledgment
+### 🔹 Acknowledgment
 This project is based on the original GCHM model developed by Lang et al. (2023).
 This version has been adapted for time series analysis on OpenAtlas.
 
-###🔹 Contact
+### 🔹 Contact
 For any questions or improvements, feel free to reach out! 🚀
 
 
