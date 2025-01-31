@@ -1,0 +1,17 @@
+{
+    "service_account_key": "/content/drive/MyDrive/GCHM_geo_inferences/gchm/ee-crampemarc-fe52ce4721a3.json", 
+    "geojson_path": "/content/drive/MyDrive/GCHM_geo_inferences/gchm/AoI_Brazil.json",
+    "tif_dir": "DATASET_GEE_TIF",
+    "image_path": "/content/drive/MyDrive/GCHM_geo_inferences/DATASET_GEE_TIF",
+    "date_array": ["2022-06-01", "2024-06-01"],
+    "aoi_name": "Greece",
+    "batch_size": 512,
+    "model_dir": "/content/drive/MyDrive/GCHM_geo_inferences/trained_models/GLOBAL_GEDI_2019_2020",
+    "deploy_dir": "/content/drive/MyDrive/GCHM_geo_inferences/Predictions",
+    "num_models": 5,
+    "finetune_strategy": "FT_Lm_SRCB",
+    "save_latlon_masks": true,
+    "remove_image_after_pred": false
+}
+
+

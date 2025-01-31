@@ -1,0 +1,75 @@
+Log of Failures during the run of the model 
+
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/extra_boucle.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/extra_boucle.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01_composite.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01_composite.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01_composite.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01_composite.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01_composite.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01_composite.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01_composite.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01_composite.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tifstd.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tifpredictions.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01.tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01 (1).tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01 (1).tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01 (1).tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01 (1).tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01 (1).tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01 (1).tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2020-01-01 (1).tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_2024-01-01 (1).tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_summer_2020-06-01_lowest_cloud (1).tif
+/content/drive/MyDrive/GCHM_New_Archi/Dataset_GEE_TIF/Brazil_summer_2020-06-01_lowest_cloud.tif
